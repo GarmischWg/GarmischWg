@@ -34,7 +34,7 @@
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.3ds.com/assets/3ds-navigation/Solidworks-logo_red.svg" alt="Solidworks" width="120" height="40"/> </a> 
 <a href="https://github.com/Ultimaker/Cura" target="_blank" rel="noreferrer"> <img src="https://github.com/Ultimaker/Cura/raw/main/resources/images/cura-icon.png" alt="Cura" width="40" height="40"/> </a> 
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/180px-Gnu-bash-logo.svg.png" alt="bash" width="100" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian" width="40" height="40"/> </a> 
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40"/> </a> 
