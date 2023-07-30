@@ -1,23 +1,23 @@
 # About me
 ## 👋 Hi, I’m @GarmischWg
-  - an undergrad student of HKUST
-  - studying SENG Bsc Integrative Systems and Design 
-  - with Extended Major In Artificial Intelligence 
-  - and Robotics minor
+  - I consider myself a hobbist, inventor, problem solver
+  - Undergrad student of HKUST
+  - Studying SENG Bsc Integrative Systems and Design 
+  - With Extended Major In Artificial Intelligence 
+  - Robotics minor
 
 ## 👀 I’m interested in
   - Robotics development (Coding and Mechan)
   - AI application
   - Physical consumer product/gadgets development
+
 ## 🌱 I’m currently learning
   - Java
-  - Design patterns such that i can manage larger code base
-  - multithreadding programming
+  - Design patterns
+  - Multithreadding programming
   - Networking
-  
 
-
-# Tech stack
+## 🖥️ Tech stack
 <p align="left"> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
